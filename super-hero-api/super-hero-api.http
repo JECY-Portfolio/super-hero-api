@@ -1,0 +1,6 @@
+@super_hero_api_HostAddress = http://localhost:5116
+
+GET {{super_hero_api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

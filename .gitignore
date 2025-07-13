@@ -1,0 +1,17 @@
+# Build files
+bin/
+obj/
+
+# User files
+*.user
+*.suo
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Others
+*.db
+*.pdb
